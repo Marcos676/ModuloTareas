@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicación de Tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "querer dormir",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Hacer los ejericicios de PG",
+        "estado": "En proceso"
+    },
+    {
+        "titulo": "Asistir a la charla",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "dormir muchooo",
+        "estado": "pendiente"
+    }
+]
